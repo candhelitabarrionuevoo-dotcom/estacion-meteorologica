@@ -3,7 +3,8 @@
 Este repositorio contiene el desarrollo integral de una estación meteorológica, integrando hardware con Arduino, Programación en Python y Análisis de datos.
 
 ### Datos del Estudiante
-| Apellido y Nombre | E-mail | GitHub |
+| Apellido y Nombre | E-mail | GitHub | 
+| :---: | :---: |:---
 | :---:BARRIONUEVO, | :--- Candela | :---:cbarrionuevo@escuelasproa.edu.ar |:---[ver perfil](https://github.com/candhelitabarrionuevoo-dotcom/estacion-meteorologica)
 
 ## Estructura del Proyecto

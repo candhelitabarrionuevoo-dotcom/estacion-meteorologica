@@ -6,14 +6,14 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 | Apellido y Nombre | E-mail | GitHub | 
 | :---: | :---: |:---
 | :---:BARRIONUEVO, | :--- Candela | :---:cbarrionuevo@escuelasproa.edu.ar |:---[ver perfil](https://github.com/candhelitabarrionuevoo-dotcom/estacion-meteorologica)
-
+```diff
 ## Estructura del Proyecto
-* **analisis_ipynb/** Prototipado de datos en Google Colab.
-* **arduino_ino/** Código fuente para el Arduino UNO R3.
-* **dashboard_pbix/**: Reportes en Power BI.
-* **database_sql/**: Scripts de MySQL Workbench.
-* **docs/**: Documentación y leyes de software.
-* **python_app/**: Aplicación de escritorio (POO).
+-* **analisis_ipynb/** Prototipado de datos en Google Colab.
++* **arduino_ino/** Código fuente para el Arduino UNO R3.
+!* **dashboard_pbix/**: Reportes en Power BI.
+-* **database_sql/**: Scripts de MySQL Workbench.
++* **docs/**: Documentación y leyes de software.
+!* **python_app/**: Aplicación de escritorio (POO).
 # 🛠️ Tecnologías Utilizadas 
 💻**GitHub*
 🐍**Python*
